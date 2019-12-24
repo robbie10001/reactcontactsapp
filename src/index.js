@@ -114,22 +114,6 @@ example JSX
     component configuration= we should be able to configure a component when it is created. 
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*CREATING A REACT COMPONENT 
 1. We need to use a function or a class. This creates HTML to show the user using JSX and handles user feedback through event handlers.
 
@@ -181,6 +165,3 @@ ReactDOM.render(
     document.querySelector('#root')
 );
 */
-
-
-
